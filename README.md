@@ -14,7 +14,7 @@ Enjoy.
 3. [Learning materials](#learning-materials)
 4. [Postmortems](#postmortems)
 5. [GDD Creation Tools](#gdd-creation-tools)
-6. [Other game design tools](#gd-tools)
+6. [Other game design tools](#other-game-design-tools)
 
 ## Finished games GDDs:
 
