@@ -8,13 +8,20 @@ I do not own any of these documents. If there are any copyrighted materials, the
 Enjoy. 
 
 
-### Contents:
-1. [Finished games GDDs](#finished-games-gdds)
-2. [Templates and examples](#templates-and-examples)
-3. [Learning materials](#learning-materials)
-4. [Postmortems](#postmortems)
-5. [GDD Creation Tools](#gdd-creation-tools)
-6. [Other game design tools](#other-game-design-tools)
+## Contents:
+
+### Game Design Document:
+- [Finished games GDDs](#finished-games-gdds)
+-  [Templates and examples](#templates-and-examples)
+-  [Learning materials](#learning-materials)
+-  [Postmortems](#postmortems)
+-  [GDD Creation Tools](#gdd-creation-tools)
+
+### [Game design tools](#game-design-tools)
+
+### [Game development](#game-development)
+
+
 
 ## Finished games GDDs:
 
@@ -487,10 +494,13 @@ Postmortems](https://web.archive.org/web/20190325062431/http://www.gamasutra.com
 Design your game idea the right way
 [Nuclino](https://blog.nuclino.com/how-to-create-a-modern-game-design-document-gdd-in-nuclino) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
 
-## Other game design tools
+## Game design tools
 
 [Arrow](https://github.com/mhgolkar/Arrow) - Arrow is a handy, free, open-source and feature-rich tool to design game narrative, develop text-adventures, or create any other kind of nonlinear interactive storytelling document.
 
-## Contribute
+## Game development
+[3D Math Primer for Grapgics and Game Development](https://gamemath.com/) - Comprehensive book on math related to game development (Simply an amazing book about teaching math used in game development in a nice and easy manner) now for Free!
+
+# Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
