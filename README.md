@@ -500,6 +500,7 @@ Design your game idea the right way
 
 ## Game development
 [3D Math Primer for Grapgics and Game Development](https://gamemath.com/) - Comprehensive book on math related to game development (Simply an amazing book about teaching math used in game development in a nice and easy manner) now for Free!
+[COLLISION DETECTION by Jeff Thompson](http://www.jeffreythompson.org/collision-detection/) - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
 
 # Contribute
 
