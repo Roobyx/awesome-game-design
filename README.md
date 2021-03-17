@@ -17,6 +17,8 @@ Enjoy.
 -  [Postmortems](#postmortems)
 -  [GDD Creation Tools](#gdd-creation-tools)
 
+### [Postmortems](#postmortems)
+
 ### [Game design tools](#game-design-tools)
 
 ### [Game development](#game-development)
@@ -487,6 +489,10 @@ Future](https://web.archive.org/web/20190325062431/http://www.gdcvault.com/play/
 - [What Went Wrong? Learning From Past
 Postmortems](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/feature/4001/what_went_wrong_learning_from_.php)
 (Gamasutra Special) **[2009]**
+
+## Postmortems
+
+[GDC Postmortems](https://youtube.com/playlist?list=PLNu0OXEmMXnA46j4CDZLVsVj-ysmWwW6s) - Youtube playlist collection of GDC Postmortems
 
 ## GDD Creation Tools
 
