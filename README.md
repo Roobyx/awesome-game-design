@@ -1,5 +1,5 @@
-# Awesome Game design list
-
+# Awesome Game design list 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A list of publicly available Game design documents that I have found in the past years. 
 
