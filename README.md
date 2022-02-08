@@ -1,7 +1,8 @@
 # Awesome Game design list 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A list of publicly available Game design documents that I have found in the past years. 
+A list of publicly available Game design documents that I have found interesting. 
+(Ok... the list is slowly evolving. The main focus will still be game design materials, but will also include additional cool tools ath the end) 
 
 I do not own any of these documents. If there are any copyrighted materials, they belong to the original authors.
 
@@ -507,6 +508,11 @@ Design your game idea the right way
 ## Game development
 [3D Math Primer for Grapgics and Game Development](https://gamemath.com/) - Comprehensive book on math related to game development (Simply an amazing book about teaching math used in game development in a nice and easy manner) now for Free!
 [COLLISION DETECTION by Jeff Thompson](http://www.jeffreythompson.org/collision-detection/) - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
+
+
+### "Alternative" engines
+[Bevy - Free, Rust, game engine](https://bevyengine.org/) - Quote from site: A refreshingly simple data-driven game engine built in Rust
+Free and Open Source Forever!
 
 # Contribute
 
