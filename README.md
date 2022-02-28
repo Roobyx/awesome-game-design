@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A list of publicly available Game design documents that I have found interesting. 
-(Ok... the list is slowly evolving. The main focus will still be game design materials, but will also include additional cool tools ath the end) 
+(Ok... the list is slowly evolving. The main focus will still be game design materials, but will also include additional cool tools at the end) 
 
 I do not own any of these documents. If there are any copyrighted materials, they belong to the original authors.
 
@@ -12,7 +12,7 @@ Enjoy.
 ## Contents:
 
 ### Game Design Document:
-- [Finished games GDDs](#finished-games-gdds)
+-  [Finished games GDDs](#finished-games-gdds)
 -  [Templates and examples](#templates-and-examples)
 -  [Learning materials](#learning-materials)
 -  [Postmortems](#postmortems)
