@@ -18,9 +18,11 @@ Enjoy.
 -  [Postmortems](#postmortems)
 -  [GDD Creation Tools](#gdd-creation-tools)
 
-### [Game design tools](#game-design-tools)
+### Design tools 
+- [List](#game-design-tools)
 
-### [Game development](#game-development)
+### Development:
+- [List](#game-development)
 
 
 
