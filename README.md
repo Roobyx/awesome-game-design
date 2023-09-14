@@ -66,6 +66,8 @@ Enjoy.
 
 ### Indie Postmortems
 
+- [Mika and the Witch’s Mountain](https://chibig.com/mika-post-mortem-part-i/) (Chibig)
+
 - [Aaaaa! — A Reckless Disregard for Gravity](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/feature/6144/postmortem_dejobaan_games_aaaaa_.php) (Dejobaan Games) **[2010]**
 - [Airscape: The Fall of Gravity](https://web.archive.org/web/20190325062431/http://gamasutra.com/blogs/DanielWest/20150908/253040/Good_isnt_good_enough__releasing_an_indie_game_in_2015.php)
 (Daniel West) **[2015]**
