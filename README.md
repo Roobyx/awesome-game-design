@@ -510,7 +510,7 @@ Design your game idea the right way
 [Arrow](https://github.com/mhgolkar/Arrow) - Arrow is a handy, free, open-source and feature-rich tool to design game narrative, develop text-adventures, or create any other kind of nonlinear interactive storytelling document.
 
 ## Game development
-[3D Math Primer for Grapgics and Game Development](https://gamemath.com/) - Comprehensive book on math related to game development (Simply an amazing book about teaching math used in game development in a nice and easy manner) now for Free!
+[3D Math Primer for Graphics and Game Development](https://gamemath.com/) - Comprehensive book on math related to game development (Simply an amazing book about teaching math used in game development in a nice and easy manner) now for Free!
 [COLLISION DETECTION by Jeff Thompson](http://www.jeffreythompson.org/collision-detection/) - This book explains the algorithms behind those collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
 
 
