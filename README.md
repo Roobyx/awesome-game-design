@@ -67,7 +67,7 @@ Enjoy.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Free online book by Robert Nystrom covering essential programming patterns for games
 - [Game Design Patterns Wiki](https://virt10.itu.chalmers.se/index.php/Main_Page) - Academic collection from Chalmers University of Technology
 - [Game Developer Deep Dives](https://www.gamedeveloper.com/keyword/deep-dive) - In-depth technical postmortems series
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/game-development/game-design) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 
 ## Postmortems:
