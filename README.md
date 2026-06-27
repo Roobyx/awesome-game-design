@@ -314,6 +314,8 @@ Enjoy.
 - [IGDA Resources](https://igda.org/resources-learning/) - International Game Developers Association resource library
 - [GameDev.net](https://www.gamedev.net/) - Long-running game development community with articles and forums
 - [GDC Vault](https://gdcvault.com/) - Archive of Game Developers Conference talks (free and premium content)
+- [Mechachameleon.games](https://mechachameleon.games/) - Fan-made browser companion for Meccha Chameleon, a paint-based hide-and-seek Steam game. Community-driven player hub with FPS boost guides, color-matching camo lab, public-lobby etiquette, and per-map hiding spot indexes for all 5 maps. Bilingual EN/zh.
+- [Mechachameleon.games — Tools Safety Guide](https://mechachameleon.games/tools/) - Safety-first radar for Meccha Chameleon third-party tools (ESP trainers, FPS boosters, password archives, admin EXE risks, and safer alternatives).
 
 # Contribute
 
