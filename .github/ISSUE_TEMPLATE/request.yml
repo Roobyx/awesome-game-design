@@ -1,0 +1,44 @@
+name: Addition request
+description: Suggest a resource to add to the list
+title: "[Add] "
+labels: ["addition"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (https only)
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Aggregators and Archives
+        - Finished Game Design Documents
+        - Pitches and Unreleased Documents
+        - Templates and Examples
+        - Learning Materials
+        - Postmortems
+        - GDD Creation Tools
+        - Game Architecture
+        - Game Design Tools
+        - Game Development
+        - Game Assets
+        - Community
+        - New category
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should it be included?
+    validations:
+      required: true

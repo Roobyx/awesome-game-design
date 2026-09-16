@@ -1,0 +1,20 @@
+# Session/tracking URLs that are not stable
+systemshock\.org/.*PHPSESSID
+facebook\.com/notes/
+facebook\.com/permalink
+# Hosts that rate-limit or block automated requests
+gdcvault\.com
+youtube\.com/playlist
+reddit\.com
+kickstarter\.com
+rpgwatch\.com
+sourcegaming\.info
+doomworld\.com
+doomwiki\.org
+gamedev\.net
+tigsource\.com
+gameuidatabase\.com
+quanticfoundry\.com
+projecthorseshoe\.com
+phaser\.io
+worldanvil\.com
