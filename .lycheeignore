@@ -18,3 +18,7 @@ quanticfoundry\.com
 projecthorseshoe\.com
 phaser\.io
 worldanvil\.com
+justingarydesign\.substack\.com
+# Host-wide outage, not per-link breakage: the account hosting this domain is
+# temporarily disabled, so every path returns 503. Remove once the site is back.
+gamedocs\.org

@@ -120,7 +120,7 @@ Enjoy.
 ### Level Design
 
 - [The Level Design Book](https://book.leveldesignbook.com/) - Free, actively maintained reference on level design theory and practice.
-- [Steve Lee](https://www.youtube.com/@SteveLeeGameDev) - Level design breakdowns from a lead designer on Dishonored 2 and BioShock Infinite.
+- [Steve Lee](https://www.youtube.com/@SteveLee_GameDev) - Level design breakdowns from a lead designer on Dishonored 2 and BioShock Infinite.
 
 ### Systems and Economy Design
 
@@ -172,7 +172,7 @@ Enjoy.
 
 ### Video Channels
 
-- [GDC](https://www.youtube.com/@Gdconf) - Hundreds of free Game Developers Conference talks.
+- [GDC](https://www.youtube.com/@gdc) - Hundreds of free Game Developers Conference talks.
 - [Extra Credits](https://www.youtube.com/@extracredits) - Foundational game design theory series.
 - [Adam Millard — The Architect of Games](https://www.youtube.com/@ArchitectofGames) - Essays on game loops, progression, and roguelikes.
 - [AI and Games](https://www.youtube.com/@AIandGames) - Research-backed analysis of game AI and procedural generation.
@@ -182,7 +182,7 @@ Enjoy.
 ### Podcasts and Newsletters
 
 - [Board Game Design Lab](https://boardgamedesignlab.com/) - Long-running tabletop design interview podcast.
-- [Game Developer Podcast](https://www.gamedeveloper.com/podcast) - Production and interview podcast.
+- [Game Developer Podcast](https://www.gamedeveloper.com/podcasts) - Production and interview podcast.
 - [Think Like a Game Designer](https://justingarydesign.substack.com/) - Newsletter and podcast by Justin Gary.
 - [GameDiscoverCo](https://newsletter.gamediscover.co/) - Data-driven game discovery and market analysis.
 - [Game Maker's Toolkit Newsletter](https://gamemakerstoolkit.com/) - Written companion to the GMTK channel.
@@ -234,7 +234,7 @@ Enjoy.
 - [Guns Of Icarus](https://web.archive.org/web/20190325062431/http://www.gamecareerguide.com/features/1019/postmortem_muse_games_guns_of_.php) (Muse Games) **[2011]**
 - [Recettear](https://web.archive.org/web/20190325062431/http://www.rockpapershotgun.com/2011/01/17/post-mortem-recettear/) (Carpe Fulgur) **[2011]**
 - [Monsters (Probably) Stole My Princess](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/feature/6310/postmortem_mediatonics_monsters_.php) (Mediatonic) **[2011]**
-- [Ray Ardent: Science Ninja](https://web.archive.org/web/20190325062431/http://nrdland.com/2011/02/post-mortem-ray-ardent-science-ninja/) (Ninja Robot Dinosaur) **[2011]**
+- [Ray Ardent: Science Ninja](https://web.archive.org/web/20110523210620/http://nrdland.com/2011/02/post-mortem-ray-ardent-science-ninja/) (Ninja Robot Dinosaur) **[2011]**
 - [Fez](https://web.archive.org/web/20190325062431/http://www.gdcvault.com/play/1015731/Cubes-All-the-Way-Down) [VIDEO] (Polytron) **[2012]**
 - [Frozen Synapse](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/feature/134984/postmortem_mode_7_games_frozen_.php) (Mode 7 Games) **[2012]**
 - [Lume](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/feature/181503/postmortem_state_of_plays_lume.php) (State of Play) **[2012]**
@@ -270,7 +270,7 @@ Enjoy.
 - [Heroki](https://web.archive.org/web/20190325062431/http://gamasutra.com/blogs/MichaelBalm/20150831/252538/Small_Indie_Reaches_for_the_Skies__The_Making_of_Heroki.php) (Michael Balm) **[2015]**
 - [INK](https://web.archive.org/web/20190325062431/http://gamasutra.com/blogs/AlejandroHitti/20150821/251762/Postmortem_ZackBellGames_INK.php) (ZackBellGames) **[2015]**
 - [Never Alone](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/news/236049/Postmortem_ELine_Media_and_Upper_One_Games_Never_Alone.php) (Upper One Games / E-Line Media) **[2015]**
-- [Next Penelope](https://web.archive.org/web/20190325062431/http://aurelregard.tumblr.com/post/126207860704/ive-made-a-9-out-of-10-on-my-own-what-if-i-could) (Aurelien Regard) **[2015]**
+- [Next Penelope](https://web.archive.org/web/20150813101104/http://aurelregard.tumblr.com/post/126207860704/ive-made-a-9-out-of-10-on-my-own-what-if-i-could) (Aurelien Regard) **[2015]**
 - [Nub's Adventure](https://web.archive.org/web/20190325062431/http://gamasutra.com/blogs/MaximilianCsuk/20150720/248957/PostMortem_Part_II_for_Nubs_Adventure_an_exploratory_platformer_for_iOS_and_Android.php) (Maximilian Csuk) **[2015]**
 - [Out There](https://web.archive.org/web/20190325062431/http://gamasutra.com/blogs/MichaelPeiffert/20150402/240302/Out_There_A_Postmortem.php) (Mi-Clos) **[2015]**
 - [Resogun](https://web.archive.org/web/20190325062431/http://www.gamasutra.com/view/news/240548/The_game_is_the_boss_A_Resogun_postmortem.php) (Housemarque) **[2015]**
@@ -324,8 +324,8 @@ Enjoy.
 - [Rocket Jockey (JS13k)](https://ryankubik.com/blog/js13k-2021-rocket-jockey) - JS13k game jam postmortem from Ryan Kubik.
 - [Linux Game Jam 2023](https://samsai.eu/post/linux-game-jam-2023-retrospective/) - Game jam retrospective with placement data.
 - [Neongarten](https://www.pixelatedplaygrounds.com/sidequests/neongarten-postmortem) - Jam-to-Steam postmortem from Tiny Mass Games.
-- [Infographic: Game Jam Postmortems](https://web.archive.org/web/20190325062431/http://www.mcfunkypants.com/2011/infographic-game-jam-postmortems/) (McFunkyPants) **[2011]**
-- [Infographic: Game Jam Postmortem Survey](https://web.archive.org/web/20190325062431/http://www.mcfunkypants.com/2011/game-jam-survey/) (McFunkyPants) **[2011]**
+- [Infographic: Game Jam Postmortems](https://web.archive.org/web/20121018185925/http://www.mcfunkypants.com/2011/infographic-game-jam-postmortems/) (McFunkyPants) **[2011]**
+- [Infographic: Game Jam Postmortem Survey](https://web.archive.org/web/20120116123916/http://www.mcfunkypants.com/2011/game-jam-survey/) (McFunkyPants) **[2011]**
 - [Ludum Dare Postmortems](https://web.archive.org/web/20190325062431/http://www.ludumdare.com/compo/tag/postmortem/) (Ludum Dare) **[various years]**
 
 ### AAA Studio Postmortems
