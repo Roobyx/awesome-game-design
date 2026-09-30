@@ -1,0 +1,14 @@
+{
+  "name": "awesome-game-design",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated list of game design documents, postmortems, and tools.",
+  "license": "CC0-1.0",
+  "scripts": {
+    "lint": "awesome-lint",
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "^2.1.2"
+  }
+}

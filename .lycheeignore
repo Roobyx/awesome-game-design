@@ -1,0 +1,24 @@
+# Session/tracking URLs that are not stable
+systemshock\.org/.*PHPSESSID
+facebook\.com/notes/
+facebook\.com/permalink
+# Hosts that rate-limit or block automated requests
+gdcvault\.com
+youtube\.com/playlist
+reddit\.com
+kickstarter\.com
+rpgwatch\.com
+sourcegaming\.info
+doomworld\.com
+doomwiki\.org
+gamedev\.net
+tigsource\.com
+gameuidatabase\.com
+quanticfoundry\.com
+projecthorseshoe\.com
+phaser\.io
+worldanvil\.com
+justingarydesign\.substack\.com
+# Host-wide outage, not per-link breakage: the account hosting this domain is
+# temporarily disabled, so every path returns 503. Remove once the site is back.
+gamedocs\.org

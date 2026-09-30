@@ -1,21 +1,29 @@
 # Contribution Guidelines
 
+This project is released with a [Contributor Code of Conduct](code-of-conduct.md).
+By participating you agree to abide by its terms.
 
-Ensure your pull request adheres to the following guidelines:
+## What belongs here
 
-- **The pull request should have a useful title and include a link to the thing you're submitting and why it should be included.**
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Templates and examples will be limited as there are a lot of them, with little to none difference.
-- Make an individual pull request for each suggestion.
-- Please provide only free and open source materials. This is not the place to promote paid work.
-- Use the following format: `[title](link) - Description.`
-- Additions should be added to the bottom of the relevant section.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Don't mention `Game deising document` in the description as it's implied.
-- Don't start the description with `A` or `An`.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+- Publicly available, free game design documents, pitches, architecture write-ups, and postmortems.
+- Free and open-source tools only. No paid products or promotional content.
+- Only link material you have the right to link. All linked documents remain the property of their original authors.
 
-Thank you for your suggestion!
+## Adding an entry
+
+1. Search existing suggestions first. No duplicates.
+2. One pull request per suggestion. New categories go in a separate pull request.
+3. Add the entry to the bottom of the relevant section.
+4. Use the format: `- [Title](link) - Short description.`
+5. Description rules: start with a capital letter, end with a period, keep it short and neutral.
+6. Prefer the official or archival source (first-party site, archive.org, or the Wayback Machine) over fan mirrors.
+7. If a document is only available via a download page, link that page and say so in the description.
+8. Check spelling and grammar, and remove trailing whitespace.
+
+## Updating your pull request
+
+If a maintainer asks for changes, amend the existing branch. Do not open a new pull request.
+
+## License
+
+By contributing you agree that your contributions are released under the project's CC0-1.0 license.
