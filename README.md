@@ -114,7 +114,6 @@ Enjoy.
 - [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) - Liz England's classic essay on what a game designer does.
 - [Designer Notes](https://www.designer-notes.com/) - Soren Johnson's game design podcast and blog.
 - [Ask a Game Dev](https://askagamedev.tumblr.com/) - Industry Q&A from a veteran game developer.
-- [Game Design Patterns Wiki](http://virt10.itu.chalmers.se/index.php/Main_Page) - Academic design pattern collection from Chalmers University of Technology.
 - [Game Developer](https://www.gamedeveloper.com/) - Industry news, design articles, and technical postmortems.
 
 ### Level Design
