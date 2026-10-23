@@ -126,6 +126,7 @@ Enjoy.
 
 - [GDKeys](https://gdkeys.com/) - Practical deep dives into economic systems, skill trees, and progression.
 - [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Analysis of free-to-play economies and monetization.
+- [Questless](https://github.com/Adiezc/questless) - Open-source engine where quests emerge from a simulated economy, with design documents for MMO economy systems.
 
 ### Narrative Design
 
