@@ -447,6 +447,7 @@ Enjoy.
 - [World Anvil](https://www.worldanvil.com/) - Worldbuilding and lore wiki with timelines and maps.
 - [LegendKeeper](https://www.legendkeeper.com/) - Lightweight collaborative worldbuilding wiki for small teams.
 - [Kanka](https://kanka.io/) - Self-hostable campaign and world wiki.
+- [PlayWeld](https://playweld.com/) - Free Apache-2.0 desktop workspace for game-project files, Markdown design notes and local search; Windows/Linux unsigned testing prerelease.
 
 ## Game Architecture
 
