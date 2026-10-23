@@ -440,43 +440,15 @@ Enjoy.
 - [Nuclino](https://blog.nuclino.com/how-to-create-a-modern-game-design-document-gdd-in-nuclino) - Lightweight collaborative wiki for team knowledge and documents.
 - [Affine](https://affine.pro/) - Self-hosted note-taking and knowledge base that works well for GDD creation.
 - [IMS Creators](https://ims.cr5.space/) - Collaborative game design tool integrated with project management.
-- [Obsidian](https://obsidian.md/) - Local-first Markdown knowledge base; portable GDD that survives vendor shutdown.
-- [Notion](https://www.notion.so/) - Widely used team knowledge base and GDD workspace.
-- [GitBook](https://www.gitbook.com/) - Hosted documentation with search and permissions.
 - [Milanote](https://milanote.com/templates/game-design) - Visual boards with purpose-built game design templates.
 - [World Anvil](https://www.worldanvil.com/) - Worldbuilding and lore wiki with timelines and maps.
 - [LegendKeeper](https://www.legendkeeper.com/) - Lightweight collaborative worldbuilding wiki for small teams.
 - [Kanka](https://kanka.io/) - Self-hostable campaign and world wiki.
 - [PlayWeld](https://playweld.com/) - Free Apache-2.0 desktop workspace for game-project files, Markdown design notes and local search; Windows/Linux unsigned testing prerelease.
-- [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
 
 ## Game Architecture
 
-### Entity Component System (ECS)
-
 - [Overwatch Gameplay Architecture](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - GDC talk by Timothy Ford on Overwatch's ECS usage.
-- [Flecs](https://github.com/SanderMertens/flecs) - High-performance C/C++ ECS.
-- [EnTT](https://github.com/skypjack/entt) - Header-only C++ ECS used in many shipped games.
-- [ECS FAQ](https://github.com/SanderMertens/ecs-faq) - Canonical explainer of ECS, archetypes, and data-oriented design.
-
-### State Machines and Behavior Trees
-
-- [Dundoc](https://www.dundoc.com/) - Avenge your Game Idea and Plunge into the Future Gaming Portal. Design your game idea the right way
-- [Nuclino](https://blog.nuclino.com/how-to-create-a-modern-game-design-document-gdd-in-nuclino) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes
-- [Affine](https://affine.pro/) - Great self-hosted note taking/knowledge base that serves well for GDD creation
-- [IMS Creators](https://ims.cr5.space/) - Collaborative game design creation tool integrated with project management
-- [Beehave](https://github.com/bitbrain/beehave) - Behavior trees for Godot with live debugging.
-- [UnityHFSM](https://github.com/Inspiaaa/UnityHFSM) - Hierarchical finite state machine for Unity.
-- [Stateless](https://github.com/dotnet-state-machine/stateless) - Engine-independent state machine library for .NET.
-- [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
-
-### Networking
-
-- [Mirror](https://github.com/MirrorNetworking/Mirror) - Open-source Unity networking library.
-- [FishNet](https://github.com/FirstGearGames/FishNet) - Modern open-source Unity networking alternative.
-- [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Reliable UDP library for custom authoritative servers.
-- [Gaffer On Games](https://gafferongames.com/post/) - Glenn Fiedler's articles on networked physics and client-server architecture.
-- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html) - Clear explanation of prediction, reconciliation, and lag compensation.
 
 ### Game AI
 
@@ -485,7 +457,6 @@ Enjoy.
 ### Architecture Books and Courses
 
 - [Game Engine Architecture](https://www.gameenginebook.com/) - Jason Gregory's standard reference on engine subsystems.
-- [Handmade Hero](https://handmadehero.org/) - From-scratch game and engine programming course.
 - [Red Blob Games](https://www.redblobgames.com/) - Interactive guides on pathfinding, hex grids, and procedural generation.
 
 ## Game Design Tools
@@ -526,60 +497,7 @@ Enjoy.
 - [The Nature of Code](https://natureofcode.com/) - Free book on vectors, forces, particles, and neural networks.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Free online book on essential programming patterns for games.
 
-### Game Engines
-
-#### Popular Open Source Engines
-
-- [Bevy](https://bevyengine.org/) - Data-driven game engine built in Rust.
-- [Godot Engine](https://godotengine.org/) - Popular open-source 2D/3D engine under the MIT license.
-- [Defold](https://defold.com/) - Free 2D game engine particularly strong for mobile development.
-- [GDevelop](https://gdevelop.io/) - No-code, visual-scripting engine for designers and students.
-- [O3DE](https://github.com/o3de/o3de) - Open-source 3D engine with CryEngine lineage.
-- [Stride](https://github.com/stride3d/stride) - Full C# 3D engine with an editor.
-- [Fyrox](https://fyrox.rs/) - Rust 3D engine with a full editor.
-- [Wicked Engine](https://wickedengine.net/) - Modern C++ renderer and engine.
-
-#### Lightweight and Specialized Engines
-
-- [LÖVE](https://love2d.org/) - Free 2D game framework using Lua.
-- [Pico-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making and sharing tiny games.
-- [raylib](https://github.com/raysan5/raylib) - Lightweight C framework for prototyping.
-- [MonoGame](https://github.com/MonoGame/MonoGame) - XNA successor used by many indie titles.
-- [FNA](https://github.com/FNA-XNA/FNA) - Faithful XNA reimplementation that ships on consoles.
-- [libGDX](https://github.com/libgdx/libgdx) - Mature cross-platform Java and Kotlin framework.
-- [Heaps.io](https://github.com/heapsio/heaps) - Haxe engine behind the Dead Cells toolchain.
-- [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - 2D Haxe framework for jam-scale games.
-- [SDL](https://github.com/libsdl-org/SDL) - The lowest-level portable layer most engines build on.
-- [SFML](https://www.sfml-dev.org/) - C++ multimedia library for building custom engines.
-
-#### Web Engines
-
-- [Phaser](https://phaser.io/) - Leading HTML5 2D engine.
-- [Babylon.js](https://www.babylonjs.com/) - Full-featured web 3D engine.
-- [three.js](https://threejs.org/) - Standard WebGL and WebGPU 3D library.
-- [PlayCanvas](https://playcanvas.com/) - Browser-based collaborative 3D engine and editor.
-
-## Game Assets
-
-- [Kenney](https://kenney.nl/) - Public-domain art and audio assets for prototyping.
-- [OpenGameArt](https://opengameart.org/) - Free assets with varying licenses.
-- [Lospec](https://lospec.com/) - Pixel art palettes and tools.
-- [Material Maker](https://materialmaker.org/) - Node-based procedural PBR material authoring.
-- [LibreSprite](https://libresprite.github.io/) - Open-source pixel art and animation editor.
-- [Piskel](https://www.piskelapp.com/) - Browser-based pixel art and spritesheet editor.
-
 ## Community
-
-### Forums and Communities
-
-- [r/gamedesign Wiki](https://www.reddit.com/r/gamedesign/wiki/index/) - Curated resources from the Reddit game design community.
-- [r/gamedev](https://www.reddit.com/r/gamedev/) - Largest general game development community.
-- [r/gameai](https://www.reddit.com/r/gameai/) - Focused game AI and gameplay programming community.
-- [r/roguelikedev](https://www.reddit.com/r/roguelikedev/) - Systems and procedural generation depth with weekly dev logs.
-- [r/IndieDev](https://www.reddit.com/r/IndieDev/) - Indie feedback and marketing community.
-- [TIGSource Forums](https://www.tigsource.com/) - Long-running developer log forum.
-- [itch.io](https://itch.io/) - Game jams, playtesting, and release platform for indie and experimental work.
-- [Unreal Slackers](https://discord.com/invite/unrealslackers) - Large Unreal Engine community Discord.
 
 ### Industry Reading
 
