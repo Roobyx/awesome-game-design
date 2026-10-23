@@ -26,4 +26,4 @@ If a maintainer asks for changes, amend the existing branch. Do not open a new p
 
 ## License
 
-By contributing you agree that your contributions are released under the project's CC0-1.0 license.
+By contributing you agree that your contributions are released under the project's CC-BY-4.0 license.
