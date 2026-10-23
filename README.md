@@ -448,6 +448,7 @@ Enjoy.
 - [LegendKeeper](https://www.legendkeeper.com/) - Lightweight collaborative worldbuilding wiki for small teams.
 - [Kanka](https://kanka.io/) - Self-hostable campaign and world wiki.
 - [PlayWeld](https://playweld.com/) - Free Apache-2.0 desktop workspace for game-project files, Markdown design notes and local search; Windows/Linux unsigned testing prerelease.
+- [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
 
 ## Game Architecture
 
