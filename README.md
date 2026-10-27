@@ -511,6 +511,7 @@ Enjoy.
 
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - Broad game development list.
 - [magictools](https://github.com/ellisonleao/magictools) - Large game development tools list.
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 - [awesome-game-engines](https://github.com/ChessMax/awesome-game-engines) - Engine catalogue.
 
 ## Contributing
