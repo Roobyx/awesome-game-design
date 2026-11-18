@@ -126,6 +126,7 @@ Enjoy.
 
 - [GDKeys](https://gdkeys.com/) - Practical deep dives into economic systems, skill trees, and progression.
 - [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Analysis of free-to-play economies and monetization.
+- [Boltshorts Mobile Game Benchmarks](https://boltshorts.com/data/genres/) - Free per-genre data on ~8,000 mobile games: how many run ads or in-app purchases, prices and download size.
 
 ### Narrative Design
 
