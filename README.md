@@ -474,6 +474,7 @@ Enjoy.
 - [Dialogic](https://github.com/dialogic-godot/dialogic) - Full visual novel dialogue addon for Godot.
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - Lightweight Godot dialogue system with a visual editor.
 - [PatterKit](https://patterkit.dev/) - Line-based voiced dialogue pipeline with coverage testing.
+- [branching-story-kit](https://github.com/ouba-studio/branching-story-kit) - Zero-dependency JavaScript library for branching story graphs with state tracking, gated choices, and a static validator.
 
 ### Game Balancing and Systems Design
 
